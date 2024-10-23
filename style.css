@@ -30,6 +30,7 @@ p {
   white-space: 0.2px;
 }
 .container {
+  max-width: 320px;
   background-color: white;
   display: flex;
   flex-flow: column;
@@ -54,10 +55,4 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-@media (min-width: 576px) {
-  .container {
-    width: 320px;
-  }
 }
