@@ -20,13 +20,9 @@ The goal was to reinforce my understanding of **HTML** and **CSS**, focusing on 
 
 ### Screenshot
 
-**Mobile Version**
+![Mobile Version](./Screenshots/iPhone-13-PRO-qr-code-component-buildandbreak.png)
 
-![Mobile](./Screenshots/iPhone-13-PRO-qr-code-component-buildandbreak.png)
-
-**Laptop Version**
-
-![Laptop](./Screenshots/Macbook-Air-qr-code-component-buildandbreak.png)
+![Desktop Version](./Screenshots/Macbook-Air-qr-code-component-buildandbreak.png)
 
 ### Links
 
